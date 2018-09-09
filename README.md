@@ -1,6 +1,6 @@
 # Shape Match Kids
 
-![Icon](https://cdn.rawgit.com/ricoz/shapematch/05c30590/Icon-xhdpi.png)
+![Icon](Icon-xhdpi.png)
 
 Educational puzzle game for toddlers released in 2015 for iOS devices. Based on visual perception and discrimination skills development concepts. Now released as open source under MIT license.
 
@@ -14,7 +14,7 @@ Created using an older version of [Corona SDK](https://coronalabs.com/) (latest 
 
 ## Screenshots
 
-<img src="https://cdn.rawgit.com/ricoz/shapematch/05c30590/screenshots/1.jpg" alt="Menu Screen" width="250"> <img src="https://cdn.rawgit.com/ricoz/shapematch/05c30590/screenshots/2.jpg" alt="Levels Screen" width="250"> <img src="https://cdn.rawgit.com/ricoz/shapematch/05c30590/screenshots/3.jpg" alt="Puzzle Screen" width="250"> <img src="https://cdn.rawgit.com/ricoz/shapematch/05c30590/screenshots/4.jpg" alt="Score Screen" width="250"> <img src="https://cdn.rawgit.com/ricoz/shapematch/05c30590/screenshots/5.jpg" alt="Stars Screen" width="250">
+<img src="screenshots/1.jpg" alt="Menu Screen" width="250"> <img src="screenshots/2.jpg" alt="Levels Screen" width="250"> <img src="screenshots/3.jpg" alt="Puzzle Screen" width="250"> <img src="screenshots/4.jpg" alt="Score Screen" width="250"> <img src="screenshots/5.jpg" alt="Stars Screen" width="250">
 
 ## App Store Description
 
