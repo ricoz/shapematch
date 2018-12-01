@@ -8,7 +8,7 @@ All music and sound effect assets with proprietary licenses were removed. Refer 
 
 Created using an older version of [Corona SDK](https://coronalabs.com/) (latest at that time).
 
-[Here's a short trailer](https://cdn.rawgit.com/ricoz/shapematch/7af0c6e0/screenshots/trailer.mp4) of the game.
+[Here's a short trailer](https://youtu.be/ZuEp_URFLlU) of the game.
 
 [Here's a quick video](https://www.instagram.com/p/4fuF2gLwLu/) of the game in action by [@makelearngo](https://www.instagram.com/makelearngo/).
 
